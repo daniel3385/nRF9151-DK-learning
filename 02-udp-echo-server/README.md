@@ -1,0 +1,2 @@
+# Using Nordic Libraries for Sokets vis Cellular IoT 
+This project demonstrates how to use the BSD socket API on an nRF91 cellular device to establish an LTE connection, create a UDP socket, and communicate with a remote echo server. The application sends UDP packets over the cellular network and receives the echoed responses, illustrating the basics of cellular data communication and socket-based networking.
